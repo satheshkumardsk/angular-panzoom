@@ -2,6 +2,7 @@ import { Component, AfterViewInit, ElementRef, ViewChild } from '@angular/core';
 import panzoom from "panzoom";
 
 @Component({
+  
   selector: 'hello',
   template: `
   <div style="overflow: hidden; 3px solid red">
